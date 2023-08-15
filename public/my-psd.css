@@ -1,0 +1,17 @@
+/* Move the .PSPDFKit-Toolbar container to the left side */
+/* .PSPDFKit-Toolbar {
+  background-color: #f00;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+} */
+
+/* Adjust the spacing and alignment of the toolbar items */
+/* .PSPDFKit-Toolbar .toolbar-item {
+  margin-bottom: 10px; 
+} */
